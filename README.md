@@ -41,6 +41,7 @@ sudo make install
 1.  El programa escanea tu carpeta de imágenes configurada.
 2.  Al seleccionar una imagen, se ejecuta `swaybg` para cambiar el fondo en Wayland.
 3.  Simultáneamente, llama a `wal -i` para actualizar los colores de tu sistema.
+4.  Para cambiar la ruta de los wallpaper presiona control+s para buscar la carpeta
 
 -----
 
