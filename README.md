@@ -48,7 +48,13 @@ sudo make install
 
 ¡Mira a **ZeroSignal wall-selector** en acción\!
 
-[Pincha aquí para ver el video de demostración](https://www.google.com/search?q=LINK_A_TU_VIDEO)
+
+
+
+https://github.com/user-attachments/assets/26cfff49-aea9-497b-b38c-cb038e5bb7d9
+
+
+
 
 -----
 
@@ -64,5 +70,5 @@ sudo make install
 
 -----
 
-**Desarrollado por [Elpepesaurio44](https://www.google.com/search?q=https://github.com/Elpepesaurio44) **
+**Desarrollado por [Elpepesaurio44](https://github.com/Elpepesaurio44) **
 
